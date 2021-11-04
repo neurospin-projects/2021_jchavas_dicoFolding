@@ -13,7 +13,7 @@ Development
     git clone https://github.com/neurospin-projects/2021_jchavas_dicoFolding.git
 
     # Install for development
-    bv bash
+    bv opengl=nv bash
     cd 2021_jchavas_dicoFolding
     virtualenv --python=python3 --system-site-packages venv
     . venv/bin/activate
