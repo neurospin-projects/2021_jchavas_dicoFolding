@@ -15,7 +15,7 @@ setup(
                     'sklearn', 'scikit-image',
                     'pytorch-lightning', 'lightly',
                     'toolz', ],
-    url='https://github.com/JoelChavas/dicoFolding',
+    url='https://github.com/neurospin-projects/2021_jchavas_dicoFolding',
     author='Joël Chavas',
     author_email='joel.chavas@cea.fr'
 )
