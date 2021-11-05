@@ -11,11 +11,9 @@ CEA Neurospin BAOBAB laboratory.
 Core developers
 ...............
 
-The deep_folding core developers are:
+The dicoFolding core developers are:
 
-* Louise Guillon
 * Joël Chavas
-* Antoine Das Neves
 
 Other contributors
 ..................
